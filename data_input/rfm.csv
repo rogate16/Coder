@@ -1,0 +1,12 @@
+Customer Segment,Activity,Item To Recommend,Actionable Tip
+Champions,"Bought recently, buy often and spend the most!",15-30,Reward them. Can be early adopters for new products. Will promote your brand.
+Loyal Customers,Spend good money with us often. Responsive to promotions.,25-35,Upsell higher value products. Ask for reviews. Engage them.
+Potential Loyalist,"Recent customers, but spent a good amount and bought more than once.",25-40,"Offer membership / loyalty program, recommend other products."
+New Customer,"Bought most recently, but not often.",20-35,"Provide on-boarding support, give them early success, start building relationship."
+Promising,"Recent shoppers, but haven't spent much.",15-25,"Create brand awareness, offer free trials"
+Need Attention,"Above average recency, frequency and monetary values. May not have bought very recently though.",15-30,"Make limited time offers, Recommend based on favorite category. Reactivate them."
+About To Sleep,"Below average recency, frequency and monetary values. Will lose them if not reactivated.",15-25,"Share valuable resources, recommend popular products / renewals at discount, reconnect with them."
+At Risk,Spent big money and purchased often. But long time ago. Need to bring them back!,10-20,"Send personalized emails to reconnect, offer renewals, provide helpful resources."
+Can't Lose Them,"Made biggest purchases, and often. But haven't returned for a long time.",5-15,"Win them back via renewals or newer products, don't lose them to competition, talk to them."
+Hibernating,"Last purchase was long back, low spenders and low number of orders.",10-25,Offer other relevant products and special discounts. Recreate brand value.
+Lost,"Lowest recency, frequency and monetary scores.",5-10,"Revive interest with reach out campaign, ignore otherwise."

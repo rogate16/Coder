@@ -1,0 +1,8 @@
+"algo","explanation","score","speed","reliability","accuracy"
+"SVD","Slow training speed, less reliable, and high error",7,2,3,2
+"Popular","Despite the speed, not really reliable. Also it has a terrible accuracy",8,5,2,1
+"Funk SVD","Similar to SVD, just having a slightly better accuracy",8,2,3,3
+"Random","Despite being very fast and having low error, recommending random items will not convince anyone",11,5,1,5
+"IBCF","Very reliable, decent accuracy, but very slow to train",11,2,5,4
+"UBCF","IBCF counterparts, but being much faster to converge making it a better algorithm",13,4,5,4
+"Matrix Factorization","With the decent speed and incredible accuracy, combined with the reassuring concept, Matrix Factorization alongside deep learning is the most ideal recommender system algorithm nowadays",15,5,5,5
